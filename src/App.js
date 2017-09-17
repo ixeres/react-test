@@ -8,9 +8,12 @@ class Hello extends Component {
   render () {
     // make sure to return some UI
     return (
+      <div>
       <h1>Hello World!</h1>
+      <h3>It is time for tea.</h3>
+      </div>
     )
   }
 }
 
-export default Hello
+export default Hello 4510155019957627
